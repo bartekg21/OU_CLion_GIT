@@ -1,0 +1,3 @@
+C:/Users/Bladi21/CLionProjects/OU_CLion_GIT/cmake-build-debug/CMakeFiles/OU_CLion_GIT.dir
+C:/Users/Bladi21/CLionProjects/OU_CLion_GIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bladi21/CLionProjects/OU_CLion_GIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
